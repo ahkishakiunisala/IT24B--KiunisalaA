@@ -1,16 +1,31 @@
 body{
-    background-image: url("PHOTOS/BackGround\ 1.jpg");
+    background-image: url("Fondo\ de\ niebla\ lila\ Siluetas\ Brillo\ y\ flores\ y\ mariposas\ Postal\ AI\ generativa\ _\ Imagen\ Premium\ generada\ con\ IA.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 h1{
-    color: rgb(60, 179, 113), blue;
+    color: rgb(206, 102, 188), blue;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100px;
+     border-style: double;
+
+}
+h3{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  margin: 1rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  color:rgb(6, 9, 26)
 }.header {
+  overflow: hidden;
+  background-color: rgb(6, 8, 6);
+  /*padding: 20px 10px;*/
+}
+.header {
     overflow: hidden;
-    background-color: rgb(33, 117, 7);
+    background-color: rgb(204, 48, 113);
     /*padding: 20px 10px;*/
   }
   
