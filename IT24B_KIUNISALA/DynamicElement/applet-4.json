@@ -1,0 +1,21 @@
+[
+    {
+      "student_id": 1,
+      "student_name": "Ahkisha Rica",
+      "student_program": "BS-Computer Science",
+      "student_enrolled_date": "2023-08-12"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Mikelle Narvasa",
+      "student_program": "BS-Computer Engineering",
+      "student_enrolled_date": "2023-09-16"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Nika Kiunsala",
+      "student_program": "BS - Information Technology",
+      "student_enrolled_date": "2023-10-24git"
+    }
+  ]
+  
